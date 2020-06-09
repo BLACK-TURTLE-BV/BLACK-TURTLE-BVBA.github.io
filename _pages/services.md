@@ -1,6 +1,6 @@
 ---
-permalink: /services/
 title: "Services"
+permalink: /services/
 ---
 1. Coding
 2. Hosting
