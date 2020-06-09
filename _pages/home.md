@@ -1,3 +1,8 @@
+---
+layout: splash
+permalink: /
+title: "Home"
+---
 ### HOME
 
 1. Coding
