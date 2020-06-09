@@ -1,6 +1,6 @@
 ---
-permalink: /
-title: "Home"
+permalink: /services/
+title: "Services"
 ---
 ### HOME
 
