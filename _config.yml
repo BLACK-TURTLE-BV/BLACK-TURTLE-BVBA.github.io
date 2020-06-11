@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Bram Nagtegals"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Passionated for IT."
+  bio    : "Passionate for IT."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
