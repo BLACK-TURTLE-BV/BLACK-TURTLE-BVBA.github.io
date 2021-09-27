@@ -7,4 +7,4 @@ tags:
   - update
 ---
 
-From 23 September 2021 I will start work full-time on my company. We will focus on everything related with blockchain.
+From 23 September 2021 I will start work full-time on my company. I will focus on everything related with blockchain.
