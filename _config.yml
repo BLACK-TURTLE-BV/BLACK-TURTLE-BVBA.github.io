@@ -69,7 +69,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/BlackTurtle123"
     - label: "Waves Ducks Farm"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-link"
       url: "https://wavesducks.com/portfolio/3PNA86UzdP6sgYnox2EYs23gZM5mK2BwWXu/all"
 footer:
   links:
@@ -83,7 +83,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/BlackTurtle123"
     - label: "Waves Ducks Farm"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-link"
       url: "https://wavesducks.com/portfolio/3PNA86UzdP6sgYnox2EYs23gZM5mK2BwWXu/all"
 
 defaults:
