@@ -1,6 +1,6 @@
 ---
 title: "We have increased our $LTO operating fee."
-date: 2020-27-09T10:24:30-04:00
+date: 2020-09-27T10:24:30-04:00
 categories:
   - blog
   - mining
