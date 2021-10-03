@@ -7,7 +7,7 @@ permalink: /services/
 ### Languages
 
 ### Project with ...
-<iframe id="projectIFrame" src="https://bartduisters.com" title="Projects with ...">
+<iframe width="100%" height="500px" src="https://bartduisters.com" title="Projects with ...">
 </iframe>
 
 ## Hosting
